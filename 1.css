@@ -31,7 +31,7 @@ font-size: 25px;
     position:relative ;
     margin-left:500px;
     -webkit-animation: mymove 4s ;
-    -webkit-animation-iteration-count: 10;
+    -webkit-animation-iteration-count: 50;
 }
 #div1 {-webkit-animation-timing-function: linear;}
 
@@ -44,7 +44,7 @@ font-size: 25px;
     position:relative ;
     margin-left:200px;
     -webkit-animation: aa 4s ;
-    -webkit-animation-iteration-count: 10;
+    -webkit-animation-iteration-count: 50;
 }
 #div2 {-webkit-animation-timing-function: linear;}
 
@@ -57,7 +57,7 @@ font-size: 25px;
     position:relative ;
     margin-left:800px;
     -webkit-animation: bb 5s ;
-    -webkit-animation-iteration-count: 10;
+    -webkit-animation-iteration-count: 50;
 }
 #div3 {-webkit-animation-timing-function: linear;}
 
@@ -70,7 +70,7 @@ font-size: 25px;
     position:relative ;
     margin-left:1000px;
     -webkit-animation: cc 5s ;
-    -webkit-animation-iteration-count: 10;
+    -webkit-animation-iteration-count: 50;
 }
 #div4 {-webkit-animation-timing-function: linear;}
 
